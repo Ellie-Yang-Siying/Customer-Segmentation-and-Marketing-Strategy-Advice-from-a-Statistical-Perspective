@@ -1,6 +1,8 @@
 # Customer Segmentation and Marketing Strategy Advice from a Statistical Perspective
-Refer to the project poster here: [Poster.pdf](https://github.com/user-attachments/files/19061605/G9.Poster.pdf)
-Refer to the project report here: [Report.pdf](https://github.com/user-attachments/files/19061644/Customer_Paper.pdf)
+Please refer to the project poster here: [Poster.pdf](https://github.com/user-attachments/files/19061605/G9.Poster.pdf)
+
+Please refer to the project report here: [Report.pdf](https://github.com/user-attachments/files/19061644/Customer_Paper.pdf)
+
 ## Introduction
 Customer analysis is a vital component of any successful business strategy. By leveraging advanced data analysis techniques, we can gain a deeper understanding of our customers and tailor our products and operations to better meet their needs and preferences. In our project, we employ a range of analytical methods, including EDA, clustering, multiple linear regression, and machine learning for regression and classification. Through this analysis, we can gain valuable insights into the characteristics and spending behaviors of our customers. This information enables us to make informed decisions about marketing strategies and improve the 
 overall success of the business.
